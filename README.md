@@ -2,7 +2,9 @@
 
 Tic-Tac-Toe game for 2 human players to play locally
 
-it looks like this:
+(written in Python3)
+
+It looks like this:
 
 ```
        Tic-Tac-Toe
